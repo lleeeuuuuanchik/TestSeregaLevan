@@ -1,0 +1,1 @@
+const logger = ( messages ) => console.log( messages )
